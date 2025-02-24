@@ -1,2 +1,3 @@
 # simulador-de-bioprocessos
-O Simulador de Processos Industriais é uma ferramenta computacional que analisa e modela processos fermentativos através de quatro modelos cinéticos principais
+O Simulador de Processos Industriais é uma ferramenta computacional que analisa e modela processos fermentativos através de quatro modelos cinéticos principais: Monod, Andrews, Levenspiel e Lee-Pollard-Coulman. O sistema permite aos usuários inserir dados experimentais e parâmetros de processo, gerando simulações comparativas com visualizações gráficas das concentrações de células, substrato e produto ao longo do tempo.
+A ferramenta calcula métricas estatísticas (R² e RMSE) para avaliar o ajuste de cada modelo aos dados experimentais, considerando cenários com e sem morte celular. É especialmente útil para pesquisadores, estudantes e profissionais da indústria biotecnológica que necessitam compreender e otimizar processos fermentativos.
